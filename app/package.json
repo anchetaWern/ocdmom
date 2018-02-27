@@ -1,0 +1,12 @@
+{
+  "name": "ocdmom",
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "expo": "^25.0.0",
+    "pusher-js": "^4.2.2",
+    "react": "16.2.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz",
+    "react-native-background-timer": "^2.0.0"
+  }
+}
